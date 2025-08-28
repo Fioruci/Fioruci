@@ -13,7 +13,7 @@ Always curious and eager to explore new tech, I’m a lifelong learner and a nat
 
 Feel free to connect with me @Fioruci for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github {{ ACCOUNT_AGE }} years ago.
 
 Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
