@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fioruci&label=Profile%20views&color=0e75b6&style=flat" alt="Fioruci" /> </p>
 I am a Full Stack Developer currently leading the Tech at VJBots with a mission to revolutionize how the companies' flows interact with AI. 🚀
 
-I thrive on problem-solving and first-principles thinking, driven by purpose and energized by the challenge of creating effective solutions. My tech stack includes Javascript, Node.js, MongoDB, React, Next.js, AWS, and more. I’ve led cross-functional teams spanning Frontend, Backend, Machine Learning, and DevOps, building scalable products from the ground up with a focus on making a meaningful impact through technology.
+I thrive on problem-solving and first-principles thinking, driven by purpose and energized by the challenge of creating effective solutions. My tech stack includes Javascript, Supabase, SQLServer, Python, Next.js, AWS, and more. I’ve led cross-functional teams spanning Frontend, Backend, Machine Learning, and DevOps, building scalable products from the ground up with a focus on making a meaningful impact through technology.
 
 Always curious and eager to explore new tech, I’m a lifelong learner and a natural problem-solver. When I step away from code, you’ll usually find me watching tech videos, feeding my curiosity, and staying ahead of trends.
 
