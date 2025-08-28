@@ -71,7 +71,7 @@ Like My Work?
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11</li>
-	    <li><b>PC Specs: </b> Ryzen 5 5600X, 32GB 3600MHz DDR4, RXT 2060 Super 8GB Gigabyte, MSI MPG B550 Gaming Plus, Dual-Monitor Setup -> Main: Philco 24" PMG24P980FG 165Hz | Secondary -> Xiaomi A Series 32"</li>
+	    <li><b>PC Specs: </b> Ryzen 5 5600X, 32GB 3600MHz DDR4, RTX 2060S 8GB Gigabyte, MSI MPG B550 Gaming Plus, Dual-Monitor Setup -> Main: Philco 24" PMG24P980FG 165Hz | Secondary -> Xiaomi A Series 32"</li>
   	    <li><b>Browser: </b> Chrome & Brave</li>
 	    <li><b>Code Editor:</b> VSCode and Visual Studio </li>
  	    <li><b>Other Tools:</b> Postman, Notion, Excalidraw, Raindrop, JSONCrack and VJBots-App</li>
